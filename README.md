@@ -6,9 +6,9 @@
 
 #### 💻 Estudante de Ciência da Computação
 
-- 🌱 Atualmente focado em análise de dados, inteligência artificial e monitoramento digital
-- 📊 Experiência com análise de sentimento, relatórios de tendências e dados não estruturados
-- 🛠️ Atuação com suporte técnico, infraestrutura e sistemas web
+-  Atualmente focado em análise de dados, inteligência artificial e monitoramento digital
+-  Experiência com análise de sentimento, relatórios de tendências e dados não estruturados
+-  Atuação com suporte técnico, infraestrutura e sistemas web
 
 ##
 
