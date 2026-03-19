@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Carlos Victor Albuquerque Oliveira
 
-<!--
-**Carlos-Vic/Carlos-Vic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Estudante de Ciência da Computação
 
-Here are some ideas to get you started:
+- 🌱 Atualmente focado em análise de dados, inteligência artificial e monitoramento digital
+- 📊 Experiência com análise de sentimento, relatórios de tendências e dados não estruturados
+- 🛠️ Atuação com suporte técnico, infraestrutura e sistemas web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+Sou estudante de Ciência da Computação na UnB, com experiência prática em monitoramento de redes sociais, análise de dados e suporte técnico. Atualmente atuo como Analista, realizando monitoramento em tempo real de plataformas digitais, identificando padrões, crises e tendências, além de produzir relatórios estratégicos.
+Já atuei na Universidade de Brasília (CEAM), onde liderei a migração de um site institucional para WordPress e prestei suporte técnico em TI, e também na Rede Globo, trabalhando com sistemas audiovisuais críticos e infraestrutura de transmissão.
+Tenho interesse em áreas como dados e inteligência artificial buscando sempre transformar dados em insights e soluções práticas.
+
+##
+
+### 🚀 Tecnologias e Ferramentas
+
+#### 🔧 Uso frequente
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+#### 🧠 Estudando atualmente
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+
+##
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Vic&hide=issues&show_icons=true&theme=default" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=Carlos-Vic&theme=default" />
+</div>
+
+##
+
+### 🏷️ Top Languages
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vic&layout=compact&langs_count=8&theme=default" />
+</div>
+
+##
+
+### 🤝 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvic)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosvictoralbuquerque221@gmail.com)
