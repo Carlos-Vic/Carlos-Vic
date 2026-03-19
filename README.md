@@ -1,7 +1,7 @@
 # 👋 Carlos Victor Albuquerque Oliveira
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/C7yrmfAcGSLLvThkUw/giphy.gif" width="400"/>
 </p>
 
 #### 💻 Estudante de Ciência da Computação
