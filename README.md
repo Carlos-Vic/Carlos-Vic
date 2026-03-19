@@ -1,5 +1,9 @@
 # 👋 Carlos Victor Albuquerque Oliveira
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="400"/>
+</p>
+
 #### 💻 Estudante de Ciência da Computação
 
 - 🌱 Atualmente focado em análise de dados, inteligência artificial e monitoramento digital
@@ -22,32 +26,18 @@ Tenho interesse em áreas como dados e inteligência artificial buscando sempre 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### 🧠 Estudando atualmente
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 
 ##
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Vic&hide=issues&show_icons=true&theme=default" />
-  <img height="150em" src="https://streak-stats.demolab.com/?user=Carlos-Vic&theme=default" />
-</div>
-
-##
-
-### 🏷️ Top Languages
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vic&layout=compact&langs_count=8&theme=default" />
-</div>
-
-##
 
 ### 🤝 Contato
 
